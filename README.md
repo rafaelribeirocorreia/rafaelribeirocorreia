@@ -82,7 +82,7 @@ Me chamo Rafael Ribeiro, tenho 23 anos e sou Mineiro. Atualmente curso Bacharela
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-nine-beryl-76.vercel.app/api/top-langs/?username=rafaelribeirocorreia&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-beige-iota-69.vercel.app/api/top-langs/?username=rafaelribeirocorreia&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
 </p>

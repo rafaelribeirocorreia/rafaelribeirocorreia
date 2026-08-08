@@ -10,8 +10,9 @@ Me chamo Rafael Ribeiro, tenho 23 anos e sou Mineiro. Atualmente curso Bacharela
  
 #
 
-<img align="right" alt="" height="190px" src="./src/arco.gif">
-
+<img align="right" alt="" height="190px" src="./src/xp.gif">
+<img align="right" alt="" height="190px" src="./src/ouro.gif">
+<img align="right" alt="" height="190px" src="./src/espada.gif">
 <h3 align="left">Redes de Contato!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:faeldru@gmail.com)

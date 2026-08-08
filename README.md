@@ -1,8 +1,15 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+Vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
+
+  <div style="background: linear-gradient(135deg, #833AB4, #E1306C, #FD1D1D, #F77737, #FCAF45); padding: 20px; border-radius: 15px;">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+Vindo+ao+meu+perfil!+%E2%8A%B9" alt="Typing SVG">
+</a>
+
+  </div>
+
 </div>
+
 
 #
 
@@ -13,14 +20,14 @@ Me chamo Rafael Ribeiro, tenho 23 anos e sou Mineiro. Atualmente curso Bacharela
 <img align="right" alt="" height="190px" src="./src/xp.gif">
 <img align="right" alt="" height="190px" src="./src/ouro.gif">
 <img align="right" alt="" height="190px" src="./src/espada.gif">
+
 <h3 align="left">Redes de Contato!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:faeldru@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in//)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/faeldru/)
+[![E-mail](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logoColor=FFFFFF&color=EA4335)](mailto:faeldru@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0A66C2)](https://www.linkedin.com/in//)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color=E4405F)](https://www.instagram.com/faeldru/)
 
-
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Minhas Ferramentas </h3>
 
 <img 
     align="left" 
@@ -68,7 +75,7 @@ Me chamo Rafael Ribeiro, tenho 23 anos e sou Mineiro. Atualmente curso Bacharela
 <br/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">Como estou?</h3>
 
 <p>
   <img 

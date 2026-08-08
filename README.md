@@ -17,9 +17,9 @@ Me chamo Rafael Ribeiro, tenho 23 anos e sou Mineiro. Atualmente curso Bacharela
  
 #
 
-<img align="right" alt="" height="190px" src="./src/xp.gif">
-<img align="right" alt="" height="190px" src="./src/ouro.gif">
-<img align="right" alt="" height="190px" src="./src/espada.gif">
+<img align="right" alt="" height="130px" src="./src/xp.gif">
+<img align="right" alt="" height="130px" src="./src/ouro.gif">
+<img align="right" alt="" height="130px" src="./src/espada.gif">
 
 <h3 align="left">Redes de Contato!</h3>
 

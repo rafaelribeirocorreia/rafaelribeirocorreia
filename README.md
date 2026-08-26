@@ -2,7 +2,10 @@
 <h1 align="center">Rafael Ribeiro Correia</h1>
 
 <div align="center">
+
 ## Sobre mim
+
+</div>
 
 Meu nome é **Rafael Ribeiro**, faço faculdade de **Bacharelado em Sistemas de Informação** no **Instituto Federal do Norte de Minas Gerais (IFNMG) – Campus Januária**.
 

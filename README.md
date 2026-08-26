@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=110&section=header"/>
 <h1 align="center">Rafael Ribeiro Correia</h1>
 
+<div align="center">
 ## Sobre mim
 
 Meu nome é **Rafael Ribeiro**, faço faculdade de **Bacharelado em Sistemas de Informação** no **Instituto Federal do Norte de Minas Gerais (IFNMG) – Campus Januária**.

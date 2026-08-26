@@ -1,27 +1,28 @@
 # Rafael Ribeiro Correia
 
-Estudante de Bacharelado em Sistemas de Informação no Instituto Federal do Norte de Minas Gerais (IFNMG). Desenvolvedor focado em resolução de problemas, desenvolvimento de software e contínuo aprimoramento técnico.
+Estudante de Bacharelado em Sistemas de Informação no Instituto Federal do Norte de Minas Gerais (IFNMG). Desenvolvedor motivado por resolução de problemas, aprendizado contínuo e exploração de novas tecnologias e linguagens de programação.
 
 ---
 
-## Sobre Mim
+## 👨‍💻 Sobre Mim
 
-- Educacao: Graduando em Bacharelado em Sistemas de Informação - IFNMG
-- Localizacao: Minas Gerais, Brasil
-- Interesses: Programação Orientada a Objetos, Estrutura de Dados, Banco de Dados e Engenharia de Software
-
----
-
-## Tecnologias e Ferramentas
-
-- Linguagens de Programacao: Java, C
-- Banco de Dados: MySQL
-- Ferramentas e Ambiente: Git, GitHub, VS Code
+- 🎓 **Educação:** Graduando em Bacharelado em Sistemas de Informação — IFNMG.
+- 📍 **Localização:** Minas Gerais, Brasil.
+- 🎯 **Interesses:** Programação Orientada a Objetos, Desenvolvimento de Software, Bancos de Dados e Resolução de Problemas.
+- 💡 **Filosofia:** Aprendizado constante e aplicação prática do conhecimento.
 
 ---
 
-## Contato e Redes
+## 🛠️ Tecnologias & Ferramentas
 
-- E-mail: faeldru@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rafaelribeirocorreia
-- Instagram: https://www.instagram.com/faeldru/
+- **Linguagens de Programação:** Java, C
+- **Banco de Dados:** MySQL
+- **Ferramentas & Ambiente:** Git, GitHub, VS Code
+
+---
+
+## 📫 Contato & Redes
+
+- **E-mail:** [faeldru@gmail.com](mailto:faeldru@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rafaelribeirocorreia](https://www.linkedin.com/in/rafaelribeirocorreia)
+- **Instagram:** [@faeldru](https://www.instagram.com/faeldru/)

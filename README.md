@@ -65,6 +65,15 @@
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
+
+<img
+    align="left"
+    alt="MYSQL"
+    title="MYSQL"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
 <br/>
 <br/>
      <h4>Aqui você vera minhas redes sociais.</h4>

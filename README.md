@@ -5,8 +5,9 @@
 <div aling="left" style="width: 100%; display: flex">
      <h4>Aqui você encontrará projetos que eu desenvolvi ou contribuí.</h4>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:faeldru@gmail.com)
-[![Instagram](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://https://www.instagram.com/faeldru/)
+[![E-mail](https://img.shields.io/badge/-E--mail-FFF?style=for-the-badge&logo=gmail&logoColor=white&color=E85D75)](mailto:faeldru@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=white&color=E85D75)](https://www.instagram.com/faeldru/)
 
 
 </div>

@@ -92,13 +92,6 @@ Sou **entusiasta de tecnologia** e estou sempre em busca de **novos desafios, ap
 [![E-mail](https://img.shields.io/badge/-E--mail-FFF?style=for-the-badge&logo=gmail&logoColor=white&color=E85D75)](mailto:faeldru@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E1306C&color=833AB4)](https://www.instagram.com/faeldru/) [![Discord](https://img.shields.io/badge/-Discord-FFF?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.com/users/drummondzada)
 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=110&section=footer"/>
-
-<br/>
-
-<h3 align="left">GitHub Stats</h3>
-
 <p>
   <img 
     align="left" 
@@ -107,3 +100,11 @@ Sou **entusiasta de tecnologia** e estou sempre em busca de **novos desafios, ap
     style="padding-right: 10px;" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=rafaelribeirocorreia&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
+    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=110&section=footer"/>
+
+<br/>
+
+<h3 align="left">GitHub Stats</h3>
+
+

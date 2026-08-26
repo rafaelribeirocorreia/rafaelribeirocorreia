@@ -105,6 +105,5 @@ Sou **entusiasta de tecnologia** e estou sempre em busca de **novos desafios, ap
 
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
 
 

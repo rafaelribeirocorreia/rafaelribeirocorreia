@@ -7,6 +7,8 @@ Meu nome é **Rafael Ribeiro**, faço faculdade de **Bacharelado em Sistemas de 
 
 Sou **entusiasta de tecnologia** e estou sempre em busca de **novos desafios, aprendizados e oportunidades para evoluir**.
 
+##
+
 ## Tecnologias que eu uso diariamente 
 
 <img 

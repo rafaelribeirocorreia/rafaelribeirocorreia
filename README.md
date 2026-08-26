@@ -1,13 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=110&section=header"/>
 
 <div align="center">
-
-"A persistência é o caminho seguro para o êxito."
-
----
-
-**Rafael Ribeiro Correia**
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&color=F1F1F1&center=true&vCenter=true&width=524&height=50&singleLine=true&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9" alt="Welcome Header">
 </div>
 
 

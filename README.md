@@ -5,11 +5,7 @@
 <div aling="left" style="width: 100%; display: flex">
      <h4>Aqui você encontrará projetos que eu desenvolvi ou contribuí.</h4>
 
-[![E-mail](https://img.shields.io/badge/-E--mail-FFF?style=for-the-badge&logo=gmail&logoColor=white&color=E85D75)](mailto:faeldru@gmail.com)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=white&color=E85D75)](https://www.instagram.com/faeldru/)
-
-
+[![E-mail](https://img.shields.io/badge/-E--mail-FFF?style=for-the-badge&logo=gmail&logoColor=white&color=E85D75)](mailto:faeldru@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=white&color=E85D75)](https://www.instagram.com/faeldru/) [![Discord](https://img.shields.io/badge/-Discord-FFF?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.com/users/drummondzada)
 </div>
 
 

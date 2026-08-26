@@ -86,7 +86,7 @@ Sou **entusiasta de tecnologia** e estou sempre em busca de **novos desafios, ap
 />
 <br/>
 <br/>
-     <h4>Aqui você vera minhas redes sociais.</h4>
+     <h4>## Aqui você vera minhas redes sociais.</h4>
 
 [![E-mail](https://img.shields.io/badge/-E--mail-FFF?style=for-the-badge&logo=gmail&logoColor=white&color=E85D75)](mailto:faeldru@gmail.com) [![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E1306C&color=833AB4)](https://www.instagram.com/faeldru/) [![Discord](https://img.shields.io/badge/-Discord-FFF?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.com/users/drummondzada)
 

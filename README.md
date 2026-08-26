@@ -59,11 +59,11 @@
 
 <img
     align="left"
-    alt="Vercel"
-    title="Vercel"
-    width="30px"
+    alt="MYSQL"
+    title="MYSQL"
+    width="50px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <br/>
 <br/>

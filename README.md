@@ -6,7 +6,7 @@
      <h4>Aqui você encontrará projetos que eu desenvolvi ou contribuí.</h4>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:faeldru@gmail.com)
-[![](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
+[![Instagram](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://https://www.instagram.com/faeldru/)
 
 
 </div>

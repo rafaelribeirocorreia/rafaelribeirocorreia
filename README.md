@@ -17,7 +17,7 @@
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="50px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />

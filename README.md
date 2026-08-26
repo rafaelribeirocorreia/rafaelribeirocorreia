@@ -7,7 +7,7 @@
 
 </div>
 
-Meu nome é **Rafael Ribeiro**, faço faculdade de **Bacharelado em Sistemas de Informação** no **Instituto Federal do Norte de Minas Gerais (IFNMG) – Campus Januária**.
+Faço faculdade de **Bacharelado em Sistemas de Informação** no **Instituto Federal do Norte de Minas Gerais (IFNMG) – Campus Januária**.
 
 Sou **entusiasta de tecnologia** e estou sempre em busca de **novos desafios, aprendizados e oportunidades para evoluir**.
 
